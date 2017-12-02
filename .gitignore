@@ -1,0 +1,8 @@
+# venv
+.cryptopals
+
+*.pyc
+
+.idea
+
+.cache
